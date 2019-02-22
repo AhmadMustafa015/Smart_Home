@@ -5,6 +5,11 @@ The code was written in MPLAB with assembly language and then tested in Proteus.
 
 ![flowchart1](https://user-images.githubusercontent.com/43111249/53240632-e58a5f80-36a7-11e9-9d2a-195cdab750d3.jpg)
 
+• proteus schematic:
+
+
+ 
+ 
  
   
   
