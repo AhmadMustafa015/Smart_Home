@@ -7,6 +7,7 @@ The code was written in MPLAB with assembly language and then tested in Proteus.
 
 • proteus schematic:
 
+![proteus](https://user-images.githubusercontent.com/43111249/53240764-40bc5200-36a8-11e9-97fb-f4ace654bfe1.png)
 
  
  
